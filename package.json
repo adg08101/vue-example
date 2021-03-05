@@ -1,0 +1,25 @@
+{
+  "name": "vue-example",
+  "version": "1.0.0",
+  "description": "Vue example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adg08101/vue-example.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "adg08101",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adg08101/vue-example/issues"
+  },
+  "homepage": "https://github.com/adg08101/vue-example#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}

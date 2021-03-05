@@ -1,0 +1,76 @@
+.contenedor {
+  width: 85%;
+  height: 90%;
+  border: solid 1px;
+  border-color: olive;
+  border-radius: 15px;
+  margin-left: 7.5%;
+  background-color: peachpuff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.contenedor-interno {
+  width: 90%;
+  margin-left: 5%;
+  border: solid 1px;
+  border-color: olive;
+  border-radius: 15px;
+  background-color: peachpuff;
+  display: inline-block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.contenerdor-interno-izquierdo {
+    width: 45%;
+    float: left;
+}
+
+.contenerdor-interno-derecho {
+    width: 45%;
+    float: right;
+}
+
+.res-text-input {
+  width: 85%;
+  border-radius: 15px;
+  height: 35px;
+  font-size: 35px;
+}
+
+.default-margin {
+  margin-left: 5%;
+  margin-top: 15px;
+}
+
+.bottom-margin {
+  margin-bottom: 15px;
+}
+
+.ultima-lectura-fecha {
+  width: 90%;
+  border-radius: 15px;
+  height: 35px;
+  font-size: 35px;
+}
+
+.text-input {
+  width: 75%;
+  border-radius: 15px;
+}
+
+.um {
+  display: contents;
+  font-size: 35px;
+}
+
+.calc-btn {
+  width: 90%;
+  font-size: 35px;
+  border-radius: 15px;
+}
+
+.default-label {
+  font-size: 35px;
+}
